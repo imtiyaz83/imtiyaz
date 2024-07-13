@@ -1,0 +1,18 @@
+/* Styles for success and error messages */
+.success-message {
+    color: green;
+    background-color: #e8f5e9;
+    border: 1px solid green;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.error-message {
+    color: red;
+    background-color: #f8d7da;
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
