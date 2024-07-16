@@ -59,11 +59,11 @@
 		</div>
 	</footer>
 	
-	<script type="text/javascript" src="js/jquery-slim.min.js"></script>
-	<script type="text/javascript" src="js/popper.min.js"></script>
-	<script type="text/javascript" src="js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="js/uikit.min.js"></script>
-	<script type="text/javascript" src="js/uikit-icons.min.js"></script>
+	<script type="text/javascript" src="<?php echo DOCUMENT_ROOT;?>js/jquery-slim.min.js"></script>
+	<script type="text/javascript" src="<?php echo DOCUMENT_ROOT;?>js/popper.min.js"></script>
+	<script type="text/javascript" src="<?php echo DOCUMENT_ROOT;?>js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="<?php echo DOCUMENT_ROOT;?>js/uikit.min.js"></script>
+	<script type="text/javascript" src="<?php echo DOCUMENT_ROOT;?>js/uikit-icons.min.js"></script>
 	<script>
 	document.addEventListener('DOMContentLoaded', function() {
 		// Get all elements with class '.clickable-card'

@@ -37,6 +37,7 @@ require_once "lib/database.php";
             header("Location: index.php");
             exit(); // Make sure to call exit() after header() to stop further execution
         } else {
+            //die("Error executing query: " . mysqli_error($conn));
             $errMsg = 'Please fix the following errors to proceed:<br />';
             $_SESSION['sessErrorMsg'] = $errMsg . 'Unable to execute the query.';
             header("Location: index.php");

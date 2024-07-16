@@ -1,12 +1,9 @@
 <?php
-    session_start();
-    $servername = "localhost"; // Replace with your server name
-    $username = "root"; // Replace with your database username # imtiyaazkhan
-    $password = "ikhan"; // Replace with your database password # n5MkKpN6KhPR
-    $dbname = "ikhan"; // Replace with your database name # imtiyaazkhan
-
+    require_once "config.php";
+    
     // Create connection
-    $conn = new mysqli($servername, $username, $password, $dbname);
+    //print_r(array(SERVER_NAME, USER_NAME, PASSWORD, DB_NAME));
+    $conn = new mysqli(SERVER_NAME, USER_NAME, PASSWORD, DB_NAME);
 
     // Check connection
     if ($conn->connect_error) {
