@@ -10,7 +10,7 @@
 		<div class="inner-overlay">
 			<div class="container">
 				<div class="row">
-					<div class="col mt-5 pt-4">
+					<div class="col pt-lg-4 pt-2">
 						<h1 class="text-light">Contact us</h1 >
 						<p class="lead">
 							We are here to help you with career development, startup success, simplifying the college-to-corporate journey, building an unstoppable mindset and unbreakable personality, or any technical programs like web development, system design, DevOps, career switching, growth, and career counseling.

@@ -5,44 +5,44 @@
 			<div class="row">
 				<div class="col">
 					<h2 class="display-5 mb-0 text-light">Imtiyaz Khan</h2>
-					<div class="d-flex flex-row justify-content-center p-3">
-						<div class="px-5">
+					<div class="d-flex flex-row flex-wrap justify-content-center p-md-3 p-1">
+						<div class="px-md-2 px-2 my-2 my-md-0">
 							<a href="http://talks.imtiyaazkhan.com" target="_blank" class="icon-link" title="Lets Talk">
 								<span class="custom-icon"></span>
 							</a>
 						</div>
 
-						<div class="px-5">
+						<div class="px-md-2 px-2 my-2 my-md-0">
 							<a href="https://www.linkedin.com/in/imtiyaazkhan" target="_blank" title="Linkedin">
 								<i class="fab fa-linkedin-in"></i>
 							</a>
 						</div>
 
-						<div class="px-5">
+						<div class="px-md-2 px-2 my-2 my-md-0">
 							<a href="https://www.facebook.com/imtiyaz83" target="_blank" title="Facebook">
 								<i class="fab fa-facebook-f"></i>
 							</a>
 						</div>
 						
-						<div class="px-5">
+						<div class="px-md-2 px-2 my-2 my-md-0">
 							<a href="https://www.youtube.com/@imtiyaz-khan" target="_blank" title="YouTube">
 								<i class="fab fa-youtube"></i>
 							</a>
 						</div>
 
-						<div class="px-5">
+						<div class="px-md-2 px-2 my-2 my-md-0">
 							<a href="https://www.instagram.com/imtiyazkhan10x" target="_blank" title="Instagram">
 								<i class="fab fa-instagram"></i>
 							</a>
 						</div>
 
-						<div class="px-5">
+						<div class="px-md-2 px-2 my-2 my-md-0">
 							<a href="https://x.com/imtiyaazkhan" target="_blank" title="Twitter or X">
 								<i class="fab fa-twitter"></i>
 							</a>
 						</div>
 
-						<div class="px-5">
+						<div class="px-md-2 px-2 my-2 my-md-0">
 							<a href="https://medium.com/@imtiyaazkhan" target="_blank" title="Medium">
 								<i class="fab fa-medium"></i>
 							</a>

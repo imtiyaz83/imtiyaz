@@ -7,53 +7,49 @@
 				</div>
 			</div>
 			<div class="row mt-3">
-				<div class="col-lg-4 col-md-4 col-sm-4">
+				<div class="col-lg-4 col-md-4 col-sm-4 my-2 my-lg-3">
 					<a href="img/gallery/1.jpg">
 						<img src="img/gallery/1.jpg" class="img-fluid">
 					</a>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-4">
+				<div class="col-lg-4 col-md-4 col-sm-4 my-2 my-lg-3">
 					<a href="img/gallery/2.jpg">
 						<img src="img/gallery/2.jpg" class="img-fluid">
 					</a>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-4">
+				<div class="col-lg-4 col-md-4 col-sm-4 my-2 my-lg-3">
 					<a href="img/gallery/3.jpg">
 						<img src="img/gallery/3.jpg" class="img-fluid">
 					</a>
 				</div>
-			</div>
-			<div class="row mt-3">
 				
-				<div class="col-lg-4 col-md-4 col-sm-4">
+				<div class="col-lg-4 col-md-4 col-sm-4 my-2 my-lg-3">
 					<a href="img/gallery/4.jpg">
 						<img src="img/gallery/4.jpg" class="img-fluid">
 					</a>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-4">
+				<div class="col-lg-4 col-md-4 col-sm-4 my-2 my-lg-3">
 					<a href="img/gallery/5.jpg">
 						<img src="img/gallery/5.jpg" class="img-fluid">
 					</a>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-4">
+				<div class="col-lg-4 col-md-4 col-sm-4 my-2 my-lg-3">
 					<a href="img/gallery/6.jpg">
 						<img src="img/gallery/6.jpg" class="img-fluid">
 					</a>
 				</div>
-			</div>
-			<div class="row mt-3">
 				
-				<div class="col-lg-4 col-md-4 col-sm-4">
+				<div class="col-lg-4 col-md-4 col-sm-4 my-2 my-lg-3">
 					<a href="img/gallery/7.jpg">
 						<img src="img/gallery/7.jpg" class="img-fluid">
 					</a>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-4">
+				<div class="col-lg-4 col-md-4 col-sm-4 my-2 my-lg-3">
 					<a href="img/gallery/8.jpg">
 						<img src="img/gallery/8.jpg" class="img-fluid">
 					</a>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-4">
+				<div class="col-lg-4 col-md-4 col-sm-4 my-2 my-lg-3">
 					<a href="img/gallery/9.jpg">
 						<img src="img/gallery/9.jpg" class="img-fluid">
 					</a>

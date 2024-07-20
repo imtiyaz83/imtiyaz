@@ -9,8 +9,9 @@
 		<div class="inner-overlay">
 			<div class="container">
 				<div class="row">
-					<div class="col mt-5 pt-4">
-						<h1 class="text-light">Want to learn more?</h1 >
+					<div class="col pt-lg-4 pt-2">
+						<h1 class="text-light text-uppercase my-0">Download Free ebooks</h1>
+						<h2 class="text-light mt-2">Want to learn more?</h2>
 						<p class="lead">
 							Download FREE eBooks and clear your concepts about college-to-corporate journey, system design, fundamentals of software development, how to get hired, and more...
 						</p>
@@ -22,7 +23,7 @@
 	<!-- About Section End -->
 
 	<!-- Info Section Start -->
-	<section id="about-info" class="py-5 my-5">
+	<section id="about-info" class="py-md-5 py-3">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-7 col-md-7">
@@ -96,11 +97,5 @@ I help engineering professionals break free from struggles, pain, stagnation, an
 	</div>
 </section>
 <!-- About Services Section End-->
-
-<!-- About Testimonial Section Start -->
-<section id="about-testimonial" class="py-5">
-	
-</section>
-<!-- About Testimonial Section End -->
 
 <?php require_once "partials/footer.php"?>

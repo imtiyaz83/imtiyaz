@@ -1,5 +1,5 @@
 <section id="slider" class="bg-dark"> 
-		<div id="myCarousel" class="carousel slide" data-ride="carousel">
+		<div id="myCarousel" class="carousel slide">
 			<ol class="carousel-indicators">
 				<li class="active" data-slide-to="0" data-target="#myCarousel"></li>
 				<li data-target="#myCarousel" data-slide-to="1"></li>

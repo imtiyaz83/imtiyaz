@@ -9,8 +9,8 @@
 		<div class="inner-overlay">
 			<div class="container">
 				<div class="row">
-					<div class="col mt-5 pt-4">
-						<h1 class="text-light">Want to Know More About Imtiyaz?</h1 >
+					<div class="col mt-5 pt-md-4 pt-2">
+						<h1 class="text-light primary-heading">Want to Know More About Imtiyaz?</h1 >
 						<p class="lead">
                             As a software professional and author, I empower fellow software professionals through tailored coaching and training programs. I also guide startups in product development, team building, process optimization, growth planning, and strategic formulation.
 						</p>
@@ -22,11 +22,11 @@
 	<!-- About Section End -->
 
 	<!-- Info Section Start -->
-	<section id="about-info" class="py-5 my-5">
+	<section id="about-info" class="py-md-5 py-3">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-7 col-md-7  align-self-center">
-					<h1>Hi, I'M IMTIYAZ KHAN</h1>
+					<h2>Hi, I'M IMTIYAZ KHAN</h2>
 					<p class="lead">
                     A software professional, author, coach, and mentor with 17 years of experience in software development. I help freshers build a strong foundation for their careers and assist mid-career software professionals in thriving in their career journeys.
 
@@ -115,11 +115,4 @@ If you need my help, support, or any guidance, don’t hesitate to connect with 
 	</div>
 </section>
 <!-- About Services Section End-->
-
-<!-- About Testimonial Section Start -->
-<section id="about-testimonial" class="py-5">
-	
-</section>
-<!-- About Testimonial Section End -->
-
 <?php require_once "partials/footer.php"?>

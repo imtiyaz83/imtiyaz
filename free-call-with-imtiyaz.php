@@ -12,7 +12,7 @@
 		<div class="inner-overlay">
 			<div class="container">
 				<div class="row">
-					<div class="col mt-5 pt-4">
+					<div class="col pt-lg-4 pt-2">
 						<h1 class="text-light">We Deeply Care Your Calls...</h1 >
 						<p class="lead">
 							We understand your concerns and respect the value of your time. By booking a call, you are investing your time, and we deeply respect that. Any booking calls will be answered within 24 hours without fail. Please ensure that you are available at the scheduled time. 
@@ -25,7 +25,7 @@
 	<!-- About Section End -->
 
 	<!-- Info Section Start -->
-	<section id="about-info" class="py-5 my-5">
+	<section id="about-info" class="py-md-5 py-3">
 		<div class="container">
 			<?php require_once "discovery-call-form.php";?>
 		</div>

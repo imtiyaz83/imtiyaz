@@ -22,7 +22,7 @@
 	<!-- About Section End -->
 
 	<!-- Info Section Start -->
-	<section id="about-info" class="py-5 my-5">
+	<section id="about-info" class="py-md-5 py-3">
 		<div class="container">
 			<div class="row">
 			<div class="col-lg-12 col-md-12">
