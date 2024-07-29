@@ -5,7 +5,7 @@
 	<!-- Nav Section End -->
 	
 	<!-- About Section Start -->
-	<section id="system-design"   class="text-center py-5 text-light">
+	<section id="about"   class="text-center py-5 text-light">
 		<div class="inner-overlay">
 			<div class="container">
 				<div class="row">

@@ -1,0 +1,9 @@
+# Enable the RewriteEngine
+RewriteEngine On
+
+# If the requested file or directory exists, don't apply the rules below
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Rewrite rule to remove .php extension
+RewriteRule ^([a-zA-Z0-9_-]+)$ $1.php [L]

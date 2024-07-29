@@ -9,8 +9,9 @@
     if ($conn->connect_error) {
         die("Connection failed: " . $conn->connect_error);
     }
-    //echo "Connected successfully";
-
+    //@extract($row);
+	//print_r($row);die("hereee");
+//echo $meta_title;die;
     // Close the connection when done
     //$conn->close();
 ?>
